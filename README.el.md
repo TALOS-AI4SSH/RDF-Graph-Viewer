@@ -46,7 +46,7 @@
   - tooltips με `otv:conceptName` + πλήρες URI  
   - χρωματική διάκριση κόμβων: root / terminal / ενδιάμεσοι / literals  
   - αναζήτηση με `*` wildcard, χωρίς διάκριση πεζών/κεφαλαίων, με αυτόματο ζουμ + επισήμανση  
-  - εναλλαγή φυσικής (Freeze ON/OFF), reset, διαγραφή επιλεγμένου κόμβου  
+  - εναλλαγή (Freeze ON/OFF), reset, διαγραφή επιλεγμένου κόμβου  
 - **SPARQL endpoint:** εκτέλεση ερωτημάτων, έτοιμα παραδείγματα  
 - **Responsive περιβάλλον:** σύγχρονος, καθαρός και προσβάσιμος σχεδιασμός  
 
@@ -94,9 +94,9 @@ python Talos_RDF_Viewer.py
 Όλος ο κώδικας διανέμεται με άδεια Creative Commons Attribution–NonCommercial (CC BY-NC 4.0).
 Μπορείτε να κοινοποιήσετε και να αναδιανείμετε το υλικό υπό τις ακόλουθες προϋποθέσεις:
 
-BY: Πρέπει να αποδίδεται αναφορά στον δημιουργό.
+> BY: Πρέπει να αποδίδεται αναφορά στον δημιουργό.
 
-NC: Επιτρέπεται μόνο μη-εμπορική χρήση.
+> NC: Επιτρέπεται μόνο μη-εμπορική χρήση.
 
 Περισσότερες πληροφορίες: https://creativecommons.org/licenses/by-nc/4.0/
 
@@ -104,8 +104,8 @@ NC: Επιτρέπεται μόνο μη-εμπορική χρήση.
 
 ## Περισσότερες Πληροφορίες
 
-Ιστότοπος TALOS RDF Graph Viewer: talos-ai4ssh.eu/RDF_Viewer
+Ιστότοπος TALOS RDF Graph Viewer: [talos-ai4ssh.eu/RDF_Viewer](http://talos-ai4ssh.eu/RDF_Viewer/)
 
-Ιστότοπος Έργου TALOS: talos-ai4ssh.uoc.gr
+Ιστότοπος Έργου TALOS: [talos-ai4ssh.uoc.gr](https://talos-ai4ssh.uoc.gr)
 
 ---
